@@ -31,8 +31,6 @@ def run():
 			print(i +" \033[1;32;40mATTACK-------------------> \033[0;31;47m" + ip +"\033[0m")
 		except:
 			print("\033[1;34;40m[\033[1;31;40m!\033[1;34;40m] \033[0;31;47 DDOS Akan di Kirimkan ke IP Target Tunggu sampai selesai\033[0m")
-                except:
-                        print("\033[1;34;40m[\033[1;31;40m!\033[1;34;40m] \033[0;31;47 E R O R [Periksa Koneksi Anda] \033[0m")
 
 for y in range(threads):
 	if choice == 'y':
