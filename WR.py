@@ -7,8 +7,9 @@ print("\033[1;33;40m")
 print( '''
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 ////////////////////////////////////////////////////////////
-            Friend WIBI&&RIDWAN
-            Create Wibi&&Ridwan
+         DDOS ATTACK RidwanKechil
+         Create RIDWAN_RIGNS
+         Gunakan dengan bijak. Ddos di gunakan untuk merusak
 ____________________________________________________________
 ------------------------------------------------------------
 	''')
