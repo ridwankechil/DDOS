@@ -10,6 +10,9 @@ print( '''
   DDOS ATTACK: WR.py
   Create: ¥¥THE IMMORTAL HACKERS¥¥
   Gunakan dengan bijak Ddos di gunakan untuk merusak....
+  €€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€
+  hello my friend, welcome to WR.py, immortal hacker,we will always make the impossible,thank you
+  Semoga hari anda menyenangkan. Jangan lupa tersenyum
 ~~~~~~~~~~~~~√~~~~~~~~~~~~~√~~~~~~~√~~~~~~~√~~~~~~√~~~~~~~~~\
 ~~~~~~~~~~~~~√~~~~~~~~~~~~~√~~~~~~~√~~~~~~~√~~~~~~√~~~~~~~~~/
 	''')
